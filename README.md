@@ -1,6 +1,13 @@
 ## Olá, meu nome é <strong>Gustavo!</strong>
 
-Graduado em Sistemas de Informação, estudos direcionados ao Desenvolvimento Full Stack.
+Sou um Engenheiro de Software com sólida experiência no ecossistema .NET e
+possuo paixão por construir aplicações web escaláveis e de alto desempenho.
+Também possuo vasta experiência na criação de soluções robustas de backend
+utilizando C# e .NET Core, além de interfaces de usuário modernas com Angular e
+TypeScript. Tenho experiência na implementação de Clean Architecture, DomainDriven Design (DDD), Microsserviços e boas práticas de programação, garantindo que
+os sistemas sejam de fácil manutenção e construídos para durar. Tenho interesse ativo
+e estudos práticos voltados para a integração de Inteligência Artificial Generativa e
+LLMs no ecossistemas C#/.NET.
 
 <p align="left">
   💌 Caso queira entrar em contato comigo segue os links:
